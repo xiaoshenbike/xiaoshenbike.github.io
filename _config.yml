@@ -23,7 +23,7 @@ pagination_type: default  # values [ ops, default ]
 more_vert:
   option1:
     name: 返回到硝神百科主站
-    link: xiaoshenbike.miraheze.org
+    link: https://xiaoshenbike.miraheze.org
   option2:
     name: 关于我
     link: https://github.com/xiaoshenbike/xiaoshenbike.github.io/
