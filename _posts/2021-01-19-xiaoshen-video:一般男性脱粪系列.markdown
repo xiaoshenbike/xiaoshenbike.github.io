@@ -1,2 +1,2 @@
-<video src="http://upos-sz-mirrorcos.bilivideo.com/upgcxcode/75/14/175711475/175711475-1-192.mp4?e=ig8euxZM2rNcNb4ghwdVhoM3hbdVhwdEto8g5X10ugNcXBlqNCNEto8g5gNvNE3DN0B5tZlqNxTEto8BTrNvN05fqx6S5ahE9IMvXBvEuENvNCImNEVEua6m2jIxux0CkF6s2JZv5x0DQJZY2F8SkXKE9IB5QK==&amp;ua=tvproj&amp;deadline=1611399429&amp;gen=playurl&amp;nbs=1&amp;oi=1866714693&amp;os=cosbv&amp;trid=7aa626d9a8144355a48ad305d76d731f&amp;uipk=5&amp;upsig=c16e3273bb8d51e9ff95411b25dfb369&amp;uparams=e,ua,deadline,gen,nbs,oi,os,trid,uipk&amp;mid=0?yijianjiexi=app.bilibili.com" width="800" height="600" controls="controls">
+<video src="http://ys-o.ys168.com/617162954/523724535/r4536358655OKVft9wh6f/175711475-1-192.mp4" width="800" height="600" controls="controls">
 </video>
